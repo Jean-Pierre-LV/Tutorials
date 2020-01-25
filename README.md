@@ -9,15 +9,16 @@ The Neural Networks that will be shown are:
 The programming language will be Python. I recommed to install Anaconda software for any SO:
 
 Usually we will need these packages requirements:
-Python 3.7
-NumPy 
-Pandas 
-Scikit-learn
-SciPy
-Statsmodels
-MatplotLib 
-Tensorflow
-Keras
+
+- Python 3.7
+- NumPy 
+- Pandas 
+- Scikit-learn
+- SciPy
+- Statsmodels
+- MatplotLib 
+- Tensorflow
+- Keras
 
 They can be installed separately using these commands:
 (conda install nameofpackage) or (pip install nameofpackage)
