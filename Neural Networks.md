@@ -1,4 +1,4 @@
-# Tutorials
+# Neural Networks
 The principal idea to create this repository of Neural Networks, is shown the a easy way to create this Networks for your own problems.
 The Neural Networks that will be shown are:
 1. Multilayer Perceptron
